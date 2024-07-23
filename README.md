@@ -1,0 +1,1 @@
+In my university projects, I applied basic machine learning models to predict bank deposit decisions from financial data and implemented algorithms to count angles in geometric shapes, showcasing my skills in data analysis and computational geometry.
